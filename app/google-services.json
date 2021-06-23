@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402758409550",
+    "firebase_url": "https://instagram-f4de8.firebaseio.com",
+    "project_id": "instagram-f4de8",
+    "storage_bucket": "instagram-f4de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402758409550:android:05ee0e05a2ecf2db",
+        "android_client_info": {
+          "package_name": "com.instagram.cursoandroid.jamiltondamasceno.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402758409550-kmfh9cnjsuniou2c06etotjevot7t59s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagram.cursoandroid.jamiltondamasceno.instagram",
+            "certificate_hash": "691d69cba8233c0c9efcceab7358ecb069d55ca1"
+          }
+        },
+        {
+          "client_id": "402758409550-o379nna87g46e7c65vpupgbpi2pkkehl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_94DpNnHFZamIsKbTYhGswZuwbuCuVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402758409550-o379nna87g46e7c65vpupgbpi2pkkehl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
